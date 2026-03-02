@@ -6,7 +6,7 @@
  * @author Varshanth
  * @version 1.5
  */
-public class oopsbannreappuc6 {
+public class oopsbannerappuc6 {
 
     public static void main(String[] args) {
 
