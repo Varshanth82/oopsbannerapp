@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-public class oopsbannerapp {
+public class oopsbannerappuc8 {
 
     public static void main(String[] args) {
 
